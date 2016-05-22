@@ -1,0 +1,16 @@
+{
+  "name": "node-web-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "download": "^4.4.3",
+    "q": "^1.4.1",
+    "x-ray": "^2.3.0"
+  }
+}
